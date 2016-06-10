@@ -5,11 +5,11 @@
 
 
 // Email To 
-$email_to = "support@companyname.com";
+$email_to = "info@capitalareahousing.org";
 
 
 // Default Subject
-$email_subject = 'Candidate Template Contact Form';
+$email_subject = 'Capital Area Housing Contact Form';
 	
 	
 // Success Message
